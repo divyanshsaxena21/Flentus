@@ -1,0 +1,6 @@
+.terraform
+.terraform.lock.hcl
+ec2key.pub
+terraform.tfstate
+terraform.tfstate.backup
+divyansh_saxena_.pem
